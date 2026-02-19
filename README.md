@@ -2,7 +2,7 @@
 
 ## Demo Screenshot
 
-![Demo](screenshot1.png,screenshot2.png)
+![Demo](screenshot1.png)
 
 
 ## Features
@@ -10,3 +10,4 @@
 - Emotion classification
 - Deep Learning CNN model
 - OpenCV face detection
+
